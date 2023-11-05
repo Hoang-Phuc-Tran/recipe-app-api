@@ -1,7 +1,6 @@
 # Recipe Restful API
 
-https://github.com/Hoang-Phuc-Tran/recipe-app-api/assets/120700092/a08ed875-6d62-45c6-b9af-07030225a446
-
+https://github.com/Hoang-Phuc-Tran/recipe-app-api/assets/120700092/d12a3e79-886c-4544-bece-6478beedda7e
 
 Welcome to the Recipe Restful API project! This API is built in Python and provides a comprehensive platform for managing users, recipes, tags, and ingredients. With built-in user authentication and a user-friendly browsable API interface (Swagger), managing your recipes has never been easier.
 
